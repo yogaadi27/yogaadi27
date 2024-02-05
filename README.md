@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Yoga Adi Nugraha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on  yoganugraha.xyz
 - 📫 How to reach me at email : kuloyoga9@gmail.com
 
 <!---
